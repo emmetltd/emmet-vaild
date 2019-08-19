@@ -1,0 +1,23 @@
+{
+    "name": "emmetltd/valid",
+    "description": "emmetltd valid",
+    "type": "library",
+	"version":"1.0.2",
+    "keywords": [
+        "valid",
+        "emmetltd"
+    ],
+    "homepage": "http://www.alisms.vip",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "yaofulai",
+            "email": "115376835@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Emmetltd\\valid\\": "valid/lib/",
+        }
+    }
+}
