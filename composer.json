@@ -17,7 +17,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Emmetltd\\valid\\": "valid/lib/",
+            "Emmetltd\\valid\\": "valid/lib/"
         }
     }
 }
