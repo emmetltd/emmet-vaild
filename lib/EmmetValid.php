@@ -1,5 +1,5 @@
 <?php
-namespace Emmetltd\valid;
+namespace Emmetltd;
 class Code
 {
     var $im = null;
