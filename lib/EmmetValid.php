@@ -1,6 +1,6 @@
 <?php
-namespace Emmetltd;
-class Code
+namespace Emmetltd\valid\lib;
+class EmmetValid
 {
     var $im = null;
     var $im_fullbg = null;

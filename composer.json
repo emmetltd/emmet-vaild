@@ -2,12 +2,13 @@
     "name": "emmetltd/valid",
     "description": "emmetltd valid",
     "type": "library",
-	"version":"1.0.3",
+	"version":"1.0.0",
     "keywords": [
         "valid",
+        "sdk",
         "emmetltd"
     ],
-    "homepage": "http://www.alisms.vip",
+    "homepage": "http://www.emmetltd.com",
     "license": "Apache-2.0",
     "authors": [
         {
@@ -17,7 +18,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Emmetltd\\": "lib/"
+            "Emmetltd\\valid\\lib\\": "lib/"
         }
     }
 }
